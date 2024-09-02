@@ -1,1 +1,3 @@
 # projeto-analise_dados
+
+Inicio do projeto -- Pasta vazia por problemas técnicos...
